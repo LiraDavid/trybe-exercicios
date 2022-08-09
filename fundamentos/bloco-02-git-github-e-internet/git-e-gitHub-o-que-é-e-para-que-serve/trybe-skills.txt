@@ -3,5 +3,7 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
-Python
-Liderança
+- Python
+- Liderança
+- HTML
+- CSS
